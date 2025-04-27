@@ -14,3 +14,5 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by non other than ViktorBalaz22
 >>>>>>> shipping_calculator_fixes
+
+# Here is another update by VB
